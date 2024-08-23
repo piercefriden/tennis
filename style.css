@@ -1,14 +1,15 @@
 body{
-background-color:#555dd9;
+background-color:#1e6b19;
 color:#ffffff;
 text-align:center;
 }
 header{
-background-color:#1e6b19;
+background-color:#555dd9;
 border-color:#ffffff;
-<<<<<<< HEAD
-border-bottom-width:10px;
+border-width:10px;
 }
-=======
+footer{
+background-color:#1e6b19;
+color:#eecfff     
+padding:10px;
 }
->>>>>>> 0d41a3e93086ffef84c1a6f5d188946471107c28
