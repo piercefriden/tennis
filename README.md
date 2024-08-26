@@ -1,2 +1,2 @@
-# tennis
+# TennisCentral
 https://piercefriden.github.io/TennisCentral
