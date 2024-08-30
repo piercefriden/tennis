@@ -1,38 +1,38 @@
 body{
-background-color:#555dd9;
-color:#ffffff;
-text-align:center;
+	background-color:#555dd9;
+	color:#ffffff;
+	text-align:center;
 
 }
 header{
-background-color:#1e6b19;
+	background-color:#1e6b19;
 }
 footer{
-background-color:#1e6b19;
-color:#ffffff; 
-padding:10px;
+	background-color:#1e6b19;
+	color:#ffffff; 
+	padding:10px;
 }
 .Terror {
-font-family: "lucida handwriting", cursive;
+	font-family: "lucida handwriting", cursive;
 }
 .chill {
-font-family: "ariel",sans-serif;
+	font-family: "ariel",sans-serif;
 }
 .twoball {
-width:800px;
+	width:800px;
 	
 }
 /* unvisited link */
 a:link {
-color: #aca1ff;
+	color: #aca1ff;
 }
 
 /* visited link */
 a:visited {
-color: #aca1ff;
+	color: #aca1ff;
 }
 
 /* mouse over link */
 a:hover {
-color: #ffffff;
+	color: #ffffff;
 }
